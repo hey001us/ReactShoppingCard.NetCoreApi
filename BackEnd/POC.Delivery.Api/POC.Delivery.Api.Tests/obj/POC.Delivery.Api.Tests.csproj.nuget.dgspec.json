@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api.Tests\\POC.Delivery.Api.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api.Tests\\POC.Delivery.Api.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api.Tests\\POC.Delivery.Api.Tests.csproj",
+        "projectName": "POC.Delivery.Api.Tests",
+        "projectPath": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api.Tests\\POC.Delivery.Api.Tests.csproj",
+        "packagesPath": "C:\\Users\\rajar\\.nuget\\packages\\",
+        "outputPath": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rajar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\POC.Delivery.Api.csproj": {
+                "projectPath": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\POC.Delivery.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.4.1, )"
+            },
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "autofixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\POC.Delivery.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\POC.Delivery.Api.csproj",
+        "projectName": "POC.Delivery.Api",
+        "projectPath": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\POC.Delivery.Api.csproj",
+        "packagesPath": "C:\\Users\\rajar\\.nuget\\packages\\",
+        "outputPath": "D:\\Testing\\DeliveryApp\\BackEnd\\POC.Delivery.Api\\POC.Delivery.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rajar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "autofixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

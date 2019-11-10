@@ -1,0 +1,60 @@
+[
+
+  {
+    "service": "Motorbike",
+    "baseCost": 5,
+    "factors": [
+      {
+        "months": [
+
+          6,7,8
+        ],
+          "factor" : 0.5
+      },
+      {
+        "months": [ 9 ],
+        "factor": 1.5
+      },
+      {
+        "months": [ 1, 2, 3, 4, 5, 10, 11, 12 ],
+        "factor": 1
+      }
+    ]
+  },
+  {
+    "service": "Train",
+    "baseCost": 10,
+    "factors": [
+      {
+        "months": [ 6, 7, 8 ],
+        "factor": 0.8
+      },
+      {
+        "months": [ 9 ],
+        "factor": 1.8
+      },
+      {
+        "months": [ 1, 2, 3, 4, 5, 10, 11, 12 ],
+        "factor": 1
+      }
+    ]
+  },
+  {
+    "service": "Aircraft",
+    "baseCost": 20,
+    "factors": [
+      {
+        "months": [ 6, 7, 8 ],
+        "factor": 0.8
+      },
+      {
+        "months": [ 9 ],
+        "factor": 2
+      },
+      {
+        "months": [ 1, 2, 3, 4, 5, 10, 11, 12 ],
+        "factor": 1
+      }
+    ]
+  }
+]

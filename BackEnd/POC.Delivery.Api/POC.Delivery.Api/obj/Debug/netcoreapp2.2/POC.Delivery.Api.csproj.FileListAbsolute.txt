@@ -1,0 +1,17 @@
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\Data\deliviery-cost-mock.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\POC.Delivery.Api.deps.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\POC.Delivery.Api.runtimeconfig.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\POC.Delivery.Api.runtimeconfig.dev.json
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\POC.Delivery.Api.dll
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\bin\Debug\netcoreapp2.2\POC.Delivery.Api.pdb
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.csprojAssemblyReference.cache
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.RazorAssemblyInfo.cache
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.RazorAssemblyInfo.cs
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.AssemblyInfoInputs.cache
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.AssemblyInfo.cs
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.RazorTargetAssemblyInfo.cache
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.dll
+D:\Testing\DeliveryApp\BackEnd\POC.Delivery.Api\POC.Delivery.Api\obj\Debug\netcoreapp2.2\POC.Delivery.Api.pdb
